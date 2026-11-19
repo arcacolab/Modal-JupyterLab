@@ -42,4 +42,4 @@ Modal GPU Sandbox 환경에서 JupyterLab을 실행하고 관리할 수 있는 �
 ## 참고 사항
 
 - `jupyterlab`, `notebook`, `torch`, `torchvision` 등은 로컬 PC가 아닌 원격 Modal Sandbox 컨테이너 이미지 내부에 설치됩니다.
-- 실행 시 같은 폴더에 `_modal_jupyter_worker.py` 파일이 자동 생성되므로 `.gitignore`에 추가해 두는 것을 권장합니다.
+#- 실행 시 같은 폴더에 `_modal_jupyter_worker.py` 파일이 자동 생성되므로 `.gitignore`에 추가해 두는 것을 권장합니다.
