@@ -18,7 +18,7 @@ Modal GPU Sandbox 환경에서 JupyterLab을 실행하고 관리할 수 있는 �
 
 2. 런처 실행
    ```bash
-   python "Modal_JupyterLab_V1.py"
+   python "Modal_JupyterLab.py"
    ```
    *(필요 시 `pip install -r requirements.txt`로 먼저 설치할 수도 있습니다.)*
 
