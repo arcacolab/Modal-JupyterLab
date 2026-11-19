@@ -42,3 +42,4 @@ Modal GPU Sandbox 환경에서 JupyterLab을 실행하고 관리할 수 있는 �
 ## 참고 사항
 
 - `jupyterlab`, `notebook`, `torch`, `torchvision` 등은 로컬 PC가 아닌 원격 Modal Sandbox 컨테이너 이미지 내부에 설치됩니다.
+- ComfyUI_Setup.ipynb 에 사용되는 파이썬 파일은 [이곳](https://huggingface.co/arcacolab/data/tree/main/modal) 에서 확인 가능합니다.
