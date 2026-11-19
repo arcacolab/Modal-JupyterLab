@@ -21,5 +21,5 @@ Modal GPU Sandbox 환경에서 JupyterLab을 원클릭으로 실행하고 관리
 
 1. 저장소 클론
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/arcacolab/Modal-JupyterLab.git
+   cd Modal-JupyterLab
