@@ -20,7 +20,7 @@ Modal GPU Sandbox 환경에서 JupyterLab을 실행하고 관리할 수 있는 �
    ```bash
    python "Modal_JupyterLab.py"
    ```
-   *(필요 시 `pip install -r requirements.txt`로 먼저 설치할 수도 있습니다.)*
+   <!-- *(필요 시 `pip install -r requirements.txt`로 먼저 설치할 수도 있습니다.)*-->
 
 3. **최초 실행 시 패키지 설치 / 업데이트**
    - 상단 패널에서 **설치 / 업데이트** 버튼을 누르면 자동으로 `modal` 패키지가 설치 및 업데이트됩니다.
