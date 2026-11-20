@@ -31,7 +31,7 @@ TUNNEL_TIMEOUT_SEC = 300
 
 FONT_FAMILY = "맑은 고딕"
 
-GPU_OPTIONS = ("T4", "L4", "A10G", "A100", "H100")
+GPU_OPTIONS = ("T4", "L4", "A10G", "L40S", "A100", "H100")
 TIME_OPTIONS = {
     "1시간": 1,
     "2시간": 2,
